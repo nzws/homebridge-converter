@@ -1,7 +1,7 @@
 {
   "displayName": "Convert Accessories Plugin",
   "name": "@nzws/homebridge-converter",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Homebridge Plugin that convert accessories for integration with other home systems.",
   "license": "Apache-2.0",
   "publishConfig": {
